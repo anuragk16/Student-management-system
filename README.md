@@ -47,8 +47,6 @@ Licensed under the [MIT License](https://github.com/anuragk16/Student-management
 
 ## 🔗 Links :-
 
-[Coding_Video_Phone_book](https://www.youtube.com/watch?v=cB_rS1YN-mU)
-
 [Youtube](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
 
 [Linkden](https://www.linkedin.com/in/anurag-kumawat-71b84721b/)
