@@ -11,16 +11,28 @@ This program have the following functions:-
 
 #App Screenshot:-
 
+
+
 login window:-
+
 ![Screenshot 2023-06-06 152134](https://github.com/anuragk16/Student-management-system/assets/90235816/736fff37-027b-40b6-952e-9da2592ba4cc)
 
+
+
 main window:-
+
 ![Screenshot 2023-06-06 152404](https://github.com/anuragk16/Student-management-system/assets/90235816/5eed61ec-986b-47da-862f-04868b530ce3)
 
+
+
 adding student:-
+
 ![Screenshot 2023-06-06 152450](https://github.com/anuragk16/Student-management-system/assets/90235816/79bbb153-388f-4f8d-a4f9-56c7cb2387a9)
 
+
+
 popups:- (excel file save)
+
 ![Screenshot 2023-06-06 152549](https://github.com/anuragk16/Student-management-system/assets/90235816/8b283c24-f617-430f-88e6-32b3d61588e7)
 
 
@@ -29,16 +41,14 @@ popups:- (excel file save)
 ## License
 (c) Anurag kumawat
 
-Licensed under the [MIT License](https://github.com/anuragk16/Phone-book-GUI/blob/main/LICENSE)
+Licensed under the [MIT License](https://github.com/anuragk16/Student-management-system/blob/main/LICENSE)
 
 
 
 ## 🔗 Links :-
 
-Phone_book executable file:- [download link](https://www.mediafire.com/file/xb32ykq03lohsjb/Phone+book.zip/file)
-
 [Coding_Video_Phone_book](https://www.youtube.com/watch?v=cB_rS1YN-mU)
 
 [Youtube](https://www.youtube.com/channel/UCKO4nOXb1ZpmuR8br5fJWBQ)
 
-[quora](https://www.quora.com/profile/Anurag-Kumawat-37)
+[Linkden](https://www.linkedin.com/in/anurag-kumawat-71b84721b/)
